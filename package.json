@@ -1,0 +1,12 @@
+{
+  "name": "html-pdf-converter",
+  "version": "1.0.0",
+  "description": "HTML to PDF converter",
+  "main": "index.js",
+  "author": "Aida Drogan #BlondieCode",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "2.5.7",
+    "html-pdf": "3.10.10"
+  }
+}
